@@ -2,6 +2,10 @@
 
 This project demonstrates a simple Star Wars quote application deployed on OpenShift. The application consists of an Nginx server serving a static HTML page and a Node.js service providing random Yoda quotes.
 
+<p align="center">
+  <img src="./star wars/yoda.png" width="1150" title="yoda">
+</p>
+
 ## Project Structure
 
 - `nginx-cm/`
