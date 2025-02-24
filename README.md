@@ -79,3 +79,22 @@ Run `crc oc-env | Invoke-Expression` to activate OpenShift Client tool.
    ```sh
    oc apply -f .\quote-app.yaml
    ```
+5. The installed application is accessible by http://quote.apps-crc.testing/ page.
+
+6. Removing resources
+
+   ```
+   oc delete -f .\quote-app.yaml
+   ```
+   
+   Delete project
+   
+   ```
+   oc delete project star-wars
+   ```
+   
+   Stop cluster
+
+   ```
+   crc stop
+   ```
