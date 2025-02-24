@@ -160,7 +160,7 @@ Click **Create**.
 In the OpenShift Web Console, navigate to **Networking > Routes**.
 Find the route you created (quote) and click on the URL to access your application.
 
-8. **To removing resources from OpenShift environment**
+8. **To remove resources from OpenShift environment**
 
 Go to the Administrator perspective.
 Navigate to Workloads > DeploymentConfigs.
