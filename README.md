@@ -187,4 +187,4 @@ Click on each deployment and click on **Actions** > **Delete DeploymentConfig**.
 
 These steps will remove the deployment and associated resources from your OpenShift environment using the Web Console.
 
-🄯 Copyleft M.Kushtov.
+🄯 Copyleft Magomedbashir Kushtov.
